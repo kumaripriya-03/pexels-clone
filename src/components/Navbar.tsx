@@ -98,6 +98,10 @@ function Navbar() {
         <div>div 8</div>
         <div>div 9</div>
       </div> */}
+
+      <div className="footer">
+        <h1>Thanks for visiting this website</h1>
+      </div>
     </>
   );
 }
